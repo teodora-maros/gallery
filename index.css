@@ -108,7 +108,7 @@ header {
     padding:30px 0px;
     font-family: 'Play', sans-serif;
     text-align:center;
-    margin-top: 15rem;
+    margin-top: 10rem;
     }
     
     .footer .row{
@@ -166,17 +166,20 @@ header {
     }
 
     .card{
-      height: 32rem;
+      height: 35rem;
     }
 
     .container a{
-      background-color: rgb(40, 40, 46);
+      background-color: black;
       border: black;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
-      font-weight: bolder;
       letter-spacing: -1px;
+      font-weight: bolder;
+      padding: 20px;
+      border-radius: 0;
     }
 
     .container a:hover{
-      background-color:black;
+      background-color:rgb(20, 20, 20);
     }
+
