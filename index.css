@@ -75,6 +75,7 @@ header {
     font-family: sans-serif;
     font-size: 20px;
     margin-top: 10px;
+
   }
 
   #navbar li{
@@ -166,7 +167,7 @@ header {
     }
 
     .card{
-      height: 35rem;
+      height: 37rem;
     }
 
     .container a{
@@ -176,13 +177,15 @@ header {
       letter-spacing: -1px;
       font-weight: bolder;
       padding: 20px;
+      font-size:40px;
       border-radius: 0;
+      border: black 2px solid ;
     }
 
     .container a:hover{
-      background-color:rgb(20, 20, 20);
+      background-color:rgb(255, 255, 255);
+      border: black 2px solid ;
+      color: black;
     }
 
-    .container a:active{
-      background-color:rgb(20, 20, 20);
-    }
+
