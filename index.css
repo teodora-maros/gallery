@@ -170,7 +170,7 @@ header {
       height: 37rem;
     }
 
-    .container a{
+    .button{
       background-color: black;
       border: black;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -180,12 +180,18 @@ header {
       font-size:40px;
       border-radius: 0;
       border: black 2px solid ;
+      text-align: center;
+      text-decoration: none;
+      color: white;
     }
 
-    .container a:hover{
+    .button:hover{
       background-color:rgb(255, 255, 255);
       border: black 2px solid ;
       color: black;
+      text-align: center;
+      text-decoration: none;
     }
+
 
 
